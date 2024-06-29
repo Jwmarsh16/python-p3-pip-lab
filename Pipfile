@@ -12,3 +12,4 @@ requests = "==2.27.1"
 [requires]
 python_version = "3.8"
 python_full_version = "3.8.13"
+ 
